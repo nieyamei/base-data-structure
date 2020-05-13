@@ -64,4 +64,21 @@
 - [返回链表倒数第 N 个元素](https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/)
 - [移除链表中的重复元素](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
 
+### 5. 图
+图(graph)由多个节点(vertex)构成，节点之间阔以互相连接组成一个网络。(x, y)表示一条边(edge)，它表示节点 x 与 y 相连。边可能会有权值(weight/cost)。
+图分为两种:
+- 无向图
+- 有向图
+> 在编程语言中，图有可能有以下两种形式表示：
+- 邻接矩阵(Adjacency Matrix)
+- 邻接表(Adjacency List)
+> 遍历图有两种算法
+- 广度优先搜索(Breadth First Search)
+- 深度优先搜索(Depth First Search)
+#### 常见的图代码面试题
+- [实现广度优先搜索](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+- [实现深度优先搜索](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+- [检查图是否为树](https://www.geeksforgeeks.org/check-given-graph-tree/)
+- [统计图中边的个数](https://www.geeksforgeeks.org/count-number-edges-undirected-graph/)
+- [使用 Dijkstra 算法查找两个节点之间的最短距离](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 
